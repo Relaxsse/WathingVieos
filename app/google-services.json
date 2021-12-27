@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598132146434",
+    "firebase_url": "https://videoview-5c4d9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "videoview-5c4d9",
+    "storage_bucket": "videoview-5c4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598132146434:android:c735122f9ca194d006821b",
+        "android_client_info": {
+          "package_name": "com.example.wathingvieos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598132146434-atkefck99srtuqra459m7p61jvqhvh11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKocbS1xpxWKBkeYAkDqsTsPEmaKQdA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598132146434-atkefck99srtuqra459m7p61jvqhvh11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
